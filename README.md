@@ -39,7 +39,7 @@ It is mainly useful for <strong>large projects</strong> such as <strong>Laravel<
 <h2>Installation</h2>
 
 <pre>
-git clone https://github.com/YOUR_USERNAME/devwatch.git
+git clone https://github.com/rytisguru/dev-watcher.git
 cd devwatch
 python3 -m pip install -r requirements.txt
 </pre>
@@ -85,7 +85,7 @@ You must open your terminal in the <strong>project root directory</strong> you w
 <h3>Step 2: Run Dev-Watcher</h3>
 
 <pre>
-python3 /home/user/tools/devwatch/devwatch.py
+python3 devwatch.py
 </pre>
 
 <p>Another example:</p>
