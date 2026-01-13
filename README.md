@@ -82,10 +82,6 @@ You must open your terminal in the <strong>project root directory</strong> you w
 
 <h3>Step 1: Open terminal in project root</h3>
 
-<pre>
-cd /home/user/projects/my-laravel-app
-</pre>
-
 <h3>Step 2: Run Dev-Watcher</h3>
 
 <pre>
@@ -150,7 +146,7 @@ _changes/
       └─ app.js
 </pre>
 
-<p>Upload the entire <code>_changes/</code> directory via FTP / SFTP.</p>
+<p>Upload the entire <code>_changes/</code> directory contents via FTP / SFTP.</p>
 
 <hr>
 
